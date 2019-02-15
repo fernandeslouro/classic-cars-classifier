@@ -1,2 +1,2 @@
 # classic-cars-classifier
-Deep learning classifier to distinguish between three models of classic car
+This repository includes a Deep learning classifier capable of distinguishing between three models of classic car (renault 4gtl, citroen 2cv and volkswagen beetle)
