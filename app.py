@@ -8,7 +8,6 @@ from pathlib import Path
 
 
 
-
 # Import fast.ai Library
 from fastai import *
 from fastai.vision import *
@@ -24,7 +23,7 @@ app = Flask(__name__)
 # Model saved with Keras model.save()
 
 
-path = ("~/classic-cars-classifier/path")
+path = Path("~/path")
 classes = ['renault-4gtl', 'citroen-2cv', 'vw-beetle']
 data2 = ImageDataBunch.single_from_classes(path, classes, tfms=get_transforms(), size=224).normalize(imagenet_stats)
 learn = create_cnn(data2, models.resnet34)
