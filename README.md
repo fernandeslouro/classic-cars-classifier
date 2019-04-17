@@ -3,8 +3,7 @@
 
 ![alt text](https://github.com/fernandeslouro/classic-cars-classifier/blob/master/cars-outline.png?raw=true)
 
-
-#### -- Project Status: [Active]
+[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
 
 ## Project Intro/Objective
 The purpose of this project is to develop a deep learning classifier to distinguish between pictures of three models of classic car:
