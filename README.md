@@ -2,17 +2,9 @@
 ![alt text](https://github.com/fernandeslouro/classic-cars-classifier/blob/master/cars-outline.png?raw=true)
 
 The purpose of this project is to develop a deep learning classifier to distinguish between pictures of three models of classic car:
-* Renault 4 GTL
-* Citroen 2CV
 * Volkswagen Beetle
-
-
-### Methods Used
-* Inferential Statistics
-* Machine Learning
-* Data Visualization
-* Predictive Modeling
-* etc.
+* Citroen 2CV
+* Renault 4 GTL
 
 ### Technologies
 * Python
