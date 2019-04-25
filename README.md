@@ -19,4 +19,4 @@ A Heroku web application was also developed, capable of classifying pictures upl
 
 ## To-Do List
 - fixing the web app (it's currently broken)
-- add a fourth class, "other", which includes random cars not corresponding any of these models.
+- consider adding a fourth class, "other", which includes random cars not corresponding any of these models.
